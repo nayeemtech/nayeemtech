@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with container orchestration tools and netlify/vercel deployment.
 - 📫 How to reach me: nayeemulislam2004@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a cool desktop sertup.
+- ⚡ Fun fact: I have a cool desktop setup.
 
 ![codinggiffff](https://user-images.githubusercontent.com/111028255/184049303-c9dcebdd-80e2-47c3-b83d-43056787a6f0.gif)
 
